@@ -73,16 +73,5 @@ I am passionate about frontend development and UI/UX design, but I also provide 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=wmelendez97&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wmelendez97&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-### 🕹️ Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wmelendez97/wmelendez97/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wmelendez97/wmelendez97/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wmelendez97/wmelendez97/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
