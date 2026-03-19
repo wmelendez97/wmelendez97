@@ -1,0 +1,47 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/pacman-contribution-graph.svg
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+**2. Permisos de Actions**
+Ve a: `Settings → Actions → General → Workflow permissions` → selecciona **Read and write permissions**.
+
+**3. Ejecutar manualmente**
+Ve a `Actions → Generate Snake → Run workflow`.
+
+Después de que corra, verifica que en el branch `output` existan los SVGs.
+
+---
+
+## 🏆 Trofeos no muestran
+
+Tu README usa `github-profile-trophy.vercel.app`. Ese servicio a veces falla o está caído. Opciones:
+
+**Opción A:** Esperar, suele volver solo.
+
+**Opción B:** Cambiar a la URL directa oficial:
+```
+https://github-profile-trophy.vercel.app/?username=wmelendez97&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8
