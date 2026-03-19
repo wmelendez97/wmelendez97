@@ -24,24 +24,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**2. Permisos de Actions**
-Ve a: `Settings → Actions → General → Workflow permissions` → selecciona **Read and write permissions**.
-
-**3. Ejecutar manualmente**
-Ve a `Actions → Generate Snake → Run workflow`.
-
-Después de que corra, verifica que en el branch `output` existan los SVGs.
-
----
-
-## 🏆 Trofeos no muestran
-
-Tu README usa `github-profile-trophy.vercel.app`. Ese servicio a veces falla o está caído. Opciones:
-
-**Opción A:** Esperar, suele volver solo.
-
-**Opción B:** Cambiar a la URL directa oficial:
-```
-https://github-profile-trophy.vercel.app/?username=wmelendez97&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8
