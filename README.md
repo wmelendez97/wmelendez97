@@ -2,7 +2,7 @@
   <img height="200" src="https://2.gravatar.com/avatar/2785aa619bfd4f96e4c42a789a4573b197953d2d7bfacc4abda42524d44b83cd?size=200" style="border-radius: 50%;" />
 </p>
 
-<h1 align="center">Hi there, I'm William Meléndez 👋</h1>
+<h1 align="center">Hi there, I'm William Meléndez</h1>
 
 <p align="center">
   <strong>Frontend / Full Stack Developer | Systems Engineer</strong><br>
