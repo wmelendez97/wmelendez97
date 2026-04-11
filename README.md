@@ -15,11 +15,6 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=wmelendez97&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wmelendez97&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
 ### 👨‍💻 About me
 
 I focus on creating scalable, maintainable, and user-friendly web applications. I have experience working in the banking, government, and private sectors, helping to automate workflows and maintain internal systems.
