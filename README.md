@@ -9,6 +9,11 @@
   Experience in building web applications with Angular, TypeScript, Spring Boot, and Laravel.
 </p>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/wmelendez97/wmelendez97/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/wmelendez97/wmelendez97/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/william-melendez/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo" />
