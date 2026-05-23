@@ -8,6 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
 
@@ -20,6 +22,3 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: America/El_Salvador
           filename: stats.svg
-          output_action: commit
-          committer_branch: stats-output
-          committer_message: "chore: update stats"

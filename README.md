@@ -10,8 +10,8 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/wmelendez97/wmelendez97/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/wmelendez97/wmelendez97/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="stats.svg" height="150" alt="stats graph" />
+  <img src="languages.svg" height="150" alt="languages graph" />
 </div>
 
 <p align="center">
