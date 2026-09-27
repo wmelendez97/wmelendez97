@@ -59,25 +59,14 @@ My approach combines clean code, practical problem solving, Agile collaboration,
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Poké Orders Frontend</h3>
-      <p align="center">React frontend for an order-management application.</p>
+      <h3 align="center">Poké Frontend</h3>
+      <p align="center">React frontend for the PokéAPI order-management backend.</p>
       <p align="center"><a href="https://github.com/wmelendez97/poke-frontend">View repository</a></p>
     </td>
     <td width="50%">
-      <h3 align="center">PokéAPI Backend</h3>
-      <p align="center">Spring Boot backend integrated with PokéAPI.</p>
+      <h3 align="center">Poké Backend API</h3>
+      <p align="center">Spring Boot API integrated with PokéAPI for order management.</p>
       <p align="center"><a href="https://github.com/wmelendez97/poke-backend">View repository</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Mansur</h3>
-      <p align="center">Native PHP web template built with HTML and CSS.</p>
-      <p align="center"><a href="https://github.com/wmelendez97/mansur">View repository</a></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">What I enjoy building</h3>
-      <p align="center">Internal systems, responsive interfaces, APIs, and practical digital solutions.</p>
     </td>
   </tr>
 </table>
@@ -85,8 +74,7 @@ My approach combines clean code, practical problem solving, Agile collaboration,
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wmelendez97&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="William's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmelendez97&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="./stats.svg" alt="William's GitHub stats" />
 </p>
 
 <p align="center">
@@ -94,10 +82,6 @@ My approach combines clean code, practical problem solving, Agile collaboration,
 </p>
 
 ## 📈 GitHub activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wmelendez97&radius=16&theme=react&area=true&order=5" height="300" alt="GitHub activity graph" />
-</div>
 
 <p align="center">
   <picture>
